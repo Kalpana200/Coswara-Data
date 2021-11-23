@@ -20,34 +20,6 @@ Yes. The file `combined_data.csv` contains a summary of metadata. The file `csv_
 Great to know you found it useful. You can cite the paper: Coswara - A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis (https://arxiv.org/abs/2005.10548)
 
 <strong>What is the count of participants in each folder?</strong>
-
-- 2020-04-13 contains 76 samples.
-- 2020-04-15 contains 161 samples. 
-- 2020-04-16 contains 197 samples.
-- 2020-04-17 contains 168 samples.
-- 2020-04-18 contains 46 samples. 
-- 2020-04-19 contains 32 samples.
-- 2020-04-24 contains 28 samples.
-- 2020-04-30 contains 23 samples.
-- 2020-05-02 contains 155 samples.
-- 2020-05-04 contains 81 samples.
-- 2020-05-05 contains 14 samples.
-- 2020-05-25 contains 54 samples.
-- 2020-06-04 contains 20 samples.
-- 2020-07-07 contains 42 samples.
-- 2020-07-20 contains 21 samples.
-- 2020-08-03 contains 29 samples.
-- 2020-08-14 contains 83 samples.
-- 2020-08-20 contains 48 samples.
-- 2020-08-24 contains 19 samples.
-- 2020-09-01 contains 24 samples.
-- 2020-09-11 contains 16 samples.
-- 2020-09-19 contains 32 samples.
-- 2020-09-30 contains 26 samples.
-- 2020-10-12 contains 18 samples.
-- 2020-10-31 contains 29 samples.
-- 2020-11-30 contains 17 samples.
-- 2020-12-21 contains 27 samples.
 - 2021-02-06 contains 18 samples.
 - 2021-04-06 contains 66 samples.
 - 2021-04-19 contains 35 samples.
